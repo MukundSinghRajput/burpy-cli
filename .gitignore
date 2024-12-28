@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+dist/
+build/
+*.egg-info/
+.venv/
+venv/
+poetry.lock
+.vscode/
+.pytest_cache
+.mypy_cache
